@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noh_myrium/static/css/main.41ab0e9e.css",
+    "main.js": "/noh_myrium/static/js/main.bf61c126.js",
+    "static/js/453.27cc80dc.chunk.js": "/noh_myrium/static/js/453.27cc80dc.chunk.js",
+    "index.html": "/noh_myrium/index.html",
+    "main.41ab0e9e.css.map": "/noh_myrium/static/css/main.41ab0e9e.css.map",
+    "main.bf61c126.js.map": "/noh_myrium/static/js/main.bf61c126.js.map",
+    "453.27cc80dc.chunk.js.map": "/noh_myrium/static/js/453.27cc80dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ab0e9e.css",
+    "static/js/main.bf61c126.js"
+  ]
+}
